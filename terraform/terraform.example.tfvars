@@ -1,0 +1,6 @@
+gsuite_admin_email = ""
+domain             = ""
+project_id         = ""
+org_id             = ""
+gke_cluster_name     = ""
+gke_cluster_location = ""
